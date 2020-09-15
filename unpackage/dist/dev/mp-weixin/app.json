@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/shop/shop",
+    "pages/message/message",
+    "pages/news/news",
+    "pages/contact/contact",
+    "pages/goods/goods",
+    "pages/pics/pics"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FF6100",
+    "backgroundColor": "#F8F8FF",
+    "backgroundTextStyle": "dark"
+  },
+  "tabBar": {
+    "color": "#808080",
+    "selectedColor": "#FF6100",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/define/home.png",
+        "selectedIconPath": "static/tabs/actived/home.png"
+      },
+      {
+        "text": "资讯",
+        "pagePath": "pages/news/news",
+        "iconPath": "static/tabs/define/message.png",
+        "selectedIconPath": "static/tabs/actived/message.png"
+      },
+      {
+        "text": "商城",
+        "pagePath": "pages/shop/shop",
+        "iconPath": "static/tabs/define/shop.png",
+        "selectedIconPath": "static/tabs/actived/shop.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap26.json"
+}

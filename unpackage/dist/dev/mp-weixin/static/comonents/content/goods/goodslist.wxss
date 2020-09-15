@@ -1,0 +1,15 @@
+
+.goods.data-v-0f43628b{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	text-align: center;
+	padding: 2px;
+	z-index: -1;
+	margin-bottom: 44px;
+}
+

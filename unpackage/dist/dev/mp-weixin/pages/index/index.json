@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "瓜皮超市",
+  "usingComponents": {
+    "goods-list": "/static/comonents/content/goods/goodslist"
+  }
+}

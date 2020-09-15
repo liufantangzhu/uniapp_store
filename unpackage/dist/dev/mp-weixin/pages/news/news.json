@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "新鲜资讯",
+  "usingComponents": {
+    "news-item": "/static/comonents/news_item/news_item"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "goods-list-item": "/static/comonents/content/goods/GoodsListItem"
+  }
+}
